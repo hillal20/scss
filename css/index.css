@@ -1,0 +1,12 @@
+body {
+  background: #032f3e;
+  color: blue; }
+  body .container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-size: 30px; }
+    body .container h1 {
+      color: white; }
+
+/*# sourceMappingURL=index.css.map */

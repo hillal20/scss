@@ -1,0 +1,17 @@
+// sass --watch sass:css
+
+$deepBlue: #032f3e;
+$fontSize: 30px;
+body {
+  background: $deepBlue;
+  color: blue;
+  .container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-size: $fontSize;
+    h1 {
+      color: white;
+    }
+  }
+}
